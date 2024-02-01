@@ -1,0 +1,17 @@
+{
+    "name": "Buku Prestasi",
+    "short_name": "Buku Prestasi",
+    "start_url": "/index.php",
+    "background_color": "#6777ef",
+    "description": "Buku Prestasi Santri",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [
+        {
+            "src": "book.PNG",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
